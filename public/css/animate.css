@@ -6,6 +6,16 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 Copyright (c) 2014 Daniel Eden
 */
+.delay-05s {
+  -vendor-animation-delay: .5s;
+  -webkit-animation-delay: .5s; /* Chrome, Safari, Opera */
+  animation-delay: .5s;
+}
+.delay-1s {
+  -vendor-animation-delay: 1s;
+  -webkit-animation-delay: 1s; /* Chrome, Safari, Opera */
+  animation-delay: 1s;
+}
 
 .animated {
   -webkit-animation-duration: 1s;
