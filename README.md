@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# DONG 官方網站
-#### DONG官方網站版本控制
+
+#  TC Incubator 官方網站
+####  TC官方網站版本控制
 
 ## Dependencies
 "ejs", "express": "4.12.2"
@@ -16,4 +16,3 @@
 =======
 # TC_web_NV
 TC official website for node version.
->>>>>>> a9252689386370ff70a38aa1e1c031434f463478
